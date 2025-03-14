@@ -1,6 +1,6 @@
 # A Desktop E-Supermarket Application
 
-***SuperMart** is a fully functional desktop application developed as part of a university project by **Nicholas Christoforou(me)** and **Leandros Kelpis**. This application is designed for managing and shopping in a supermarket e-shop environment. It allows both administrators and customers to interact with the system, manage products, place orders, and view order history. With separate functionalities for administrators and customers, **SuperMart** ensures smooth operation for both user types. The app is built in Java, following object-oriented programming principles, and incorporates file-based storage for persistence.
+**E-Supermarket** is a fully functional desktop application developed as part of a university project by **Nicholas Christoforou(me)** and **Leandros Kelpis**. This application is designed for managing and shopping in a supermarket e-shop environment. It allows both administrators and customers to interact with the system, manage products, place orders, and view order history. With separate functionalities for administrators and customers, **E-Supermarket** ensures smooth operation for both user types. The app is built in Java, following object-oriented programming principles, and incorporates file-based storage for persistence.
 ## Features
 
 ### For Administrators:
